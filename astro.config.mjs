@@ -29,7 +29,7 @@ import { rehypeImageWidth } from "./src/plugins/rehype-image-width.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-	site: siteConfig.siteURL,
+	site: "https://shangyun-sx.github.io/mizuki-blog/",
 	base: "/mizuki-blog/",
 	trailingSlash: "always",
 
